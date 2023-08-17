@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "infracao-tc": {
+      "hosting": {
+        "infracao-tc": [
+          "infracao-tc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "infracao-tc"
+  }
+}
